@@ -7,7 +7,7 @@
   {
    "path": "srs/ALI(ULI)/Drv.pesrs",
    "size": 12350,
-   "sha256": "",
+   "sha256": "2914bd1ebed449e575f6433c37f7f216f71010e0f84b7a4c729b9a67dbb94973",
    "vendor": "ALI(ULI)",
    "company": "",
    "product": "",
@@ -17,7 +17,7 @@
   {
    "path": "srs/ALI(ULI)/Drv.reg",
    "size": 12926,
-   "sha256": "",
+   "sha256": "56bb0a37340342030f4153407c8930dac82463942f8bdeb24949950a2d565349",
    "vendor": "ALI(ULI)",
    "company": "",
    "product": "",
@@ -87,7 +87,7 @@
   {
    "path": "srs/AMD/0/Drv.pesrs",
    "size": 1748,
-   "sha256": "",
+   "sha256": "c4ca09b483944c5c90028494ab0b241c7dd97994ba993cca1520e7e8a175a1c3",
    "vendor": "AMD",
    "company": "",
    "product": "",
@@ -97,7 +97,7 @@
   {
    "path": "srs/AMD/0/Drv.reg",
    "size": 1820,
-   "sha256": "",
+   "sha256": "c05a03c450a3342540a384da64618e1b7a885a9ca9a17748161492271d31fe7c",
    "vendor": "AMD",
    "company": "",
    "product": "",
@@ -107,7 +107,7 @@
   {
    "path": "srs/AMD/1/Drv.pesrs",
    "size": 33894,
-   "sha256": "",
+   "sha256": "07a008d83404d5f7d046e4aa2aa6b957717c0d3d7a4a8c474f2cd761255c5891",
    "vendor": "AMD",
    "company": "",
    "product": "",
@@ -117,7 +117,7 @@
   {
    "path": "srs/AMD/1/Drv.reg",
    "size": 35604,
-   "sha256": "",
+   "sha256": "ca6cadb4082775f23744ca7a97a4a1ec831d823185d1bbdde075bba35fb8ab24",
    "vendor": "AMD",
    "company": "",
    "product": "",
@@ -137,7 +137,7 @@
   {
    "path": "srs/AMD/2/Drv.pesrs",
    "size": 3696,
-   "sha256": "",
+   "sha256": "2f52526b44825b2ef7f87148a18c7d79cb95a26667bd272d878af235f4ebed1c",
    "vendor": "AMD",
    "company": "",
    "product": "",
@@ -147,7 +147,7 @@
   {
    "path": "srs/AMD/2/Drv.reg",
    "size": 3876,
-   "sha256": "",
+   "sha256": "5cb4b0dc6a018cc8e147e6a55a1fc34f436c5f2fd5554f25e8be4e6944782625",
    "vendor": "AMD",
    "company": "",
    "product": "",
@@ -167,7 +167,7 @@
   {
    "path": "srs/ITE/Drv.pesrs",
    "size": 29726,
-   "sha256": "",
+   "sha256": "b2b6d1c8b3069b4fd5e98a672ff82865cc66476077e8b21479e84d42eacaef78",
    "vendor": "ITE",
    "company": "",
    "product": "",
@@ -177,7 +177,7 @@
   {
    "path": "srs/ITE/Drv.reg",
    "size": 31202,
-   "sha256": "",
+   "sha256": "f7a4a0aac05ef2009b77c8c871b248b497e93928cf190fbc1c645ec6e96e3d98",
    "vendor": "ITE",
    "company": "",
    "product": "",
@@ -207,7 +207,7 @@
   {
    "path": "srs/Intel/0/Drv.pesrs",
    "size": 16194,
-   "sha256": "",
+   "sha256": "1b7bd9a059b2b72bd49367a30459cdf25880052a05fa7303be9347c05595f3f8",
    "vendor": "Intel",
    "company": "",
    "product": "",
@@ -217,7 +217,7 @@
   {
    "path": "srs/Intel/0/Drv.reg",
    "size": 17040,
-   "sha256": "",
+   "sha256": "f759e0677a31f021ad77bfbb9df2efe1620ceafadb60585f843c2552b7de4456",
    "vendor": "Intel",
    "company": "",
    "product": "",
@@ -227,7 +227,7 @@
   {
    "path": "srs/Intel/1/Drv.pesrs",
    "size": 2890,
-   "sha256": "",
+   "sha256": "edd6e2f137569b3a123c8fe6a5eb53c64962c2851152817c506d5bb9fcc79f9b",
    "vendor": "Intel",
    "company": "",
    "product": "",
@@ -237,7 +237,7 @@
   {
    "path": "srs/Intel/1/Drv.reg",
    "size": 2998,
-   "sha256": "",
+   "sha256": "79569029c77ff960f1bfc803d4c997a2907651667a06eede7d3fe4eaa7b77c72",
    "vendor": "Intel",
    "company": "",
    "product": "",
@@ -257,7 +257,7 @@
   {
    "path": "srs/Intel/2/Drv.pesrs",
    "size": 5108,
-   "sha256": "",
+   "sha256": "6b30810414a26a175bc172aac18183a8f311111f384413b66b83e0b50539c776",
    "vendor": "Intel",
    "company": "",
    "product": "",
@@ -267,7 +267,7 @@
   {
    "path": "srs/Intel/2/Drv.reg",
    "size": 5342,
-   "sha256": "",
+   "sha256": "a5c471c92caadc65cb57f88a7370c727ad0ff161815131d0d36c9294f36f1b33",
    "vendor": "Intel",
    "company": "",
    "product": "",
@@ -287,7 +287,7 @@
   {
    "path": "srs/Intel/3/Drv.pesrs",
    "size": 13140,
-   "sha256": "",
+   "sha256": "c775608707d32e637ecaf36521a62746f862ab2f88d95e1a9a6af28ed59efce8",
    "vendor": "Intel",
    "company": "",
    "product": "",
@@ -297,7 +297,7 @@
   {
    "path": "srs/Intel/3/Drv.reg",
    "size": 13788,
-   "sha256": "",
+   "sha256": "098291c18cc2e1515a1a72f20cfa799f3845bdc07e9ab46e13f40d8914e47cb1",
    "vendor": "Intel",
    "company": "",
    "product": "",
@@ -317,7 +317,7 @@
   {
    "path": "srs/JMicron/Drv.pesrs",
    "size": 148648,
-   "sha256": "",
+   "sha256": "6bd138487faab76528d903aa98eb7c50ba623d6de348220732d5f176dcc2acf1",
    "vendor": "JMicron",
    "company": "",
    "product": "",
@@ -327,7 +327,7 @@
   {
    "path": "srs/JMicron/Drv.reg",
    "size": 156262,
-   "sha256": "",
+   "sha256": "2503853d25d84acd05e6cc5dae56100413827c3f5deb56a686260c232b2d244e",
    "vendor": "JMicron",
    "company": "",
    "product": "",
@@ -347,7 +347,7 @@
   {
    "path": "srs/MS/Drv.pesrs",
    "size": 266790,
-   "sha256": "",
+   "sha256": "254b0ae8695791e2cd5cbf4a82fbe033e82a5f63b763fe2a8b31d5e6158e6ec5",
    "vendor": "MS",
    "company": "",
    "product": "",
@@ -357,7 +357,7 @@
   {
    "path": "srs/MS/Drv.reg",
    "size": 281154,
-   "sha256": "",
+   "sha256": "37fc0bf1762d9def5545c4f3853db9e8fd4a681306b23178f63a35a213bc70c4",
    "vendor": "MS",
    "company": "",
    "product": "",
@@ -547,7 +547,7 @@
   {
    "path": "srs/Marvell/Drv.pesrs",
    "size": 23000,
-   "sha256": "",
+   "sha256": "0e83cdb1ff8f619bea3ae50a62bb4b265d705cc91ceeb63b035bb86676e02655",
    "vendor": "Marvell",
    "company": "",
    "product": "",
@@ -557,7 +557,7 @@
   {
    "path": "srs/Marvell/Drv.reg",
    "size": 24188,
-   "sha256": "",
+   "sha256": "c1919398e8f84fc345381df1538fdd17ed38fb2cf5ba3895ec627e92b98a0ff7",
    "vendor": "Marvell",
    "company": "",
    "product": "",
@@ -647,7 +647,7 @@
   {
    "path": "srs/SIS/Drv.pesrs",
    "size": 9870,
-   "sha256": "",
+   "sha256": "2ca47cf6732c6e4a96d8de34e2cc65635019ae47845fd90310cd70750963ef48",
    "vendor": "SIS",
    "company": "",
    "product": "",
@@ -657,7 +657,7 @@
   {
    "path": "srs/SIS/Drv.reg",
    "size": 10356,
-   "sha256": "",
+   "sha256": "a6db5eaae9ac463745538be8b193bc229b2ebb010d25fb84180ce0c19c413382",
    "vendor": "SIS",
    "company": "",
    "product": "",
@@ -687,7 +687,7 @@
   {
    "path": "srs/VIA/Drv.pesrs",
    "size": 22122,
-   "sha256": "",
+   "sha256": "45dd00a53870352dd2a2042eb31b7e87037bd4cf8ecd9657fa913c227405ca6b",
    "vendor": "VIA",
    "company": "",
    "product": "",
@@ -697,7 +697,7 @@
   {
    "path": "srs/VIA/Drv.reg",
    "size": 23220,
-   "sha256": "",
+   "sha256": "b565c48cf57aaa0fdb90aa6b7359a12cbe1712d70e6b8dc709b44934b120b109",
    "vendor": "VIA",
    "company": "",
    "product": "",
@@ -757,7 +757,7 @@
   {
    "path": "srs/nVIDIA/1/Drv.pesrs",
    "size": 7144,
-   "sha256": "",
+   "sha256": "fd51dabde9022310e2250a3d234a965856f9a13b75e49f858569034b38c9d09d",
    "vendor": "nVIDIA",
    "company": "",
    "product": "",
@@ -767,7 +767,7 @@
   {
    "path": "srs/nVIDIA/1/Drv.reg",
    "size": 7486,
-   "sha256": "",
+   "sha256": "86470e8578aee10eaf30d17e9e3bb78a8f9e4338fd62169d863ec6c008c18caa",
    "vendor": "nVIDIA",
    "company": "",
    "product": "",
@@ -797,7 +797,7 @@
   {
    "path": "srs/nVIDIA/2/Drv.pesrs",
    "size": 13002,
-   "sha256": "",
+   "sha256": "1fd2620a9f6256ceb5e3c8f37e92ec53c452f94cde817b9938c5f9a477006e31",
    "vendor": "nVIDIA",
    "company": "",
    "product": "",
@@ -807,7 +807,7 @@
   {
    "path": "srs/nVIDIA/2/Drv.reg",
    "size": 13686,
-   "sha256": "",
+   "sha256": "8248f60e9c83063f991b5c00179128d863539f35906f1be9c25b02ad351e64db",
    "vendor": "nVIDIA",
    "company": "",
    "product": "",
