@@ -1,0 +1,5 @@
+*.sys binary
+*.dll binary
+*.exe binary
+*.cat binary
+*.pesrs binary

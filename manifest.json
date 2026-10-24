@@ -1,0 +1,938 @@
+{
+ "generated_by": "OpenSysprepTool driver inventory",
+ "source": "SC (SysCeo) 3.0.0.178 · FUNK.exe 内嵌加密 7z，本地解出",
+ "note": "版权归各厂商，本仓库不主张任何权利",
+ "count": 93,
+ "files": [
+  {
+   "path": "srs/ALI(ULI)/Drv.pesrs",
+   "size": 12350,
+   "sha256": "",
+   "vendor": "ALI(ULI)",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/ALI(ULI)/Drv.reg",
+   "size": 12926,
+   "sha256": "",
+   "vendor": "ALI(ULI)",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/ALI(ULI)/drivers/aliide.sys",
+   "size": 7311,
+   "sha256": "3049dd276e259f42f4d9924bfa49e5e57fc1d1b1854d7e6e30061e44812408c5",
+   "vendor": "ALI(ULI)",
+   "company": "ALi Corporation",
+   "product": "ALi mini IDE Driver",
+   "version": "v1.51",
+   "desc": "ALi mini IDE Driver"
+  },
+  {
+   "path": "srs/ALI(ULI)/drivers/m5228.sys",
+   "size": 45069,
+   "sha256": "f7bc8f146319b6e013c0d3a728566e21b8bf239418564ba9028cb6abb85a90d8",
+   "vendor": "ALI(ULI)",
+   "company": "ALi Corporation.",
+   "product": "M5228 ATA RAID Controller Driver",
+   "version": "5.028",
+   "desc": "M5228 ATA RAID Controller Driver"
+  },
+  {
+   "path": "srs/ALI(ULI)/drivers/m5281.sys",
+   "size": 51072,
+   "sha256": "33a173bdd617bee106fa71601338cb30576484896cb07aa727f5b3b7bb9141ac",
+   "vendor": "ALI(ULI)",
+   "company": "ALi Corporation",
+   "product": "ALi SATA RAID Controller Driver",
+   "version": "5.029",
+   "desc": "ALi SATA RAID Controller Driver"
+  },
+  {
+   "path": "srs/ALI(ULI)/drivers/m5287.sys",
+   "size": 103680,
+   "sha256": "145a6c99ef4b8e2c0541256db1a66fe864909e840ec4886c696c66ca8e493083",
+   "vendor": "ALI(ULI)",
+   "company": "ULi Electronics Inc.",
+   "product": "ULi SATA Controller Driver",
+   "version": "6.209",
+   "desc": "ULi SATA Controller Driver"
+  },
+  {
+   "path": "srs/ALI(ULI)/drivers/m5288.sys",
+   "size": 210304,
+   "sha256": "0718210b18c7b4060bdd04ebfb93aee1afca32a20234e481e99b9f6ee0435cb3",
+   "vendor": "ALI(ULI)",
+   "company": "ULi Electronics Inc.",
+   "product": "ULi SATA Controller Driver",
+   "version": "6.218",
+   "desc": "ULi SATA Controller Driver"
+  },
+  {
+   "path": "srs/ALI(ULI)/drivers/m5289.sys",
+   "size": 52480,
+   "sha256": "c82a3682432c6b284be48aea983ebd628ce2906561a0d5b22aab43981ec5c19c",
+   "vendor": "ALI(ULI)",
+   "company": "ULi Electronics Inc.",
+   "product": "ULi SATA RAID Controller Driver",
+   "version": "5.030",
+   "desc": "ULi SATA RAID Controller Driver"
+  },
+  {
+   "path": "srs/AMD/0/Drv.pesrs",
+   "size": 1748,
+   "sha256": "",
+   "vendor": "AMD",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/AMD/0/Drv.reg",
+   "size": 1820,
+   "sha256": "",
+   "vendor": "AMD",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/AMD/1/Drv.pesrs",
+   "size": 33894,
+   "sha256": "",
+   "vendor": "AMD",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/AMD/1/Drv.reg",
+   "size": 35604,
+   "sha256": "",
+   "vendor": "AMD",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/AMD/1/drivers/ahci8086.sys",
+   "size": 123392,
+   "sha256": "e8f5a9d3e741ebccb83f51ae9e6508e08beddd82132dd76b22d210a4f27b5bfb",
+   "vendor": "AMD",
+   "company": "Promise Technology, Inc.",
+   "product": " Promise FastTrak AHCI",
+   "version": " 2.5.1540.47",
+   "desc": "Promise FastTrak AHCI Driver for Windows family"
+  },
+  {
+   "path": "srs/AMD/2/Drv.pesrs",
+   "size": 3696,
+   "sha256": "",
+   "vendor": "AMD",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/AMD/2/Drv.reg",
+   "size": 3876,
+   "sha256": "",
+   "vendor": "AMD",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/AMD/2/drivers/ahcix86.sys",
+   "size": 228688,
+   "sha256": "cd7a8150053c666398c7b15f1facc808cef6d7686fff9f178aebfda96a64c480",
+   "vendor": "AMD",
+   "company": "Advanced Micro Devices, Inc",
+   "product": " AMD AHCI Compatible Controller",
+   "version": " 3.3.1540.33",
+   "desc": "AMD AHCI Compatible Controller Driver for Windows family"
+  },
+  {
+   "path": "srs/ITE/Drv.pesrs",
+   "size": 29726,
+   "sha256": "",
+   "vendor": "ITE",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/ITE/Drv.reg",
+   "size": 31202,
+   "sha256": "",
+   "vendor": "ITE",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/ITE/drivers/iteatapi.sys",
+   "size": 25424,
+   "sha256": "e7e6d66e40f56bd44394596c9f41ce950fadce28526790daeedf3665d1fa9a78",
+   "vendor": "ITE",
+   "company": "Integrated Technology Express, Inc.",
+   "product": "Windows (R) 2000 DDK driver",
+   "version": "5.00.2195.1620",
+   "desc": "ITE IT8211 ATA/ATAPI SCSI miniport"
+  },
+  {
+   "path": "srs/ITE/drivers/iteraid.sys",
+   "size": 26112,
+   "sha256": "aeb55af99b3c1e9d1686f12bd6b6087a2dd79006bd8671c8262474640831d098",
+   "vendor": "ITE",
+   "company": "Integrated Technology Express, Inc.",
+   "product": "Windows (R) Server 2003 DDK driver",
+   "version": "5.2.3790.0",
+   "desc": "ITE IT8212 ATA RAID SCSI miniport"
+  },
+  {
+   "path": "srs/Intel/0/Drv.pesrs",
+   "size": 16194,
+   "sha256": "",
+   "vendor": "Intel",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/Intel/0/Drv.reg",
+   "size": 17040,
+   "sha256": "",
+   "vendor": "Intel",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/Intel/1/Drv.pesrs",
+   "size": 2890,
+   "sha256": "",
+   "vendor": "Intel",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/Intel/1/Drv.reg",
+   "size": 2998,
+   "sha256": "",
+   "vendor": "Intel",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/Intel/1/drivers/iaStor47.sys",
+   "size": 477696,
+   "sha256": "24b46563074a0f8fe50bb969f9fa96dd898dd19744f472e891fa03a2a42204c4",
+   "vendor": "Intel",
+   "company": "Intel Corporation",
+   "product": "Intel Application Accelerator driver",
+   "version": "4.7.0.6815",
+   "desc": "Intel Application Accelerator driver"
+  },
+  {
+   "path": "srs/Intel/2/Drv.pesrs",
+   "size": 5108,
+   "sha256": "",
+   "vendor": "Intel",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/Intel/2/Drv.reg",
+   "size": 5342,
+   "sha256": "",
+   "vendor": "Intel",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/Intel/2/drivers/iaStor78.sys",
+   "size": 308248,
+   "sha256": "3e0f99512cdff0b628e2ff5b91bb371cdef65201b03c53182c97dde34e26e04c",
+   "vendor": "Intel",
+   "company": "Intel Corporation",
+   "product": "Intel Matrix Storage Manager driver",
+   "version": "7.8.0.1012",
+   "desc": "Intel Matrix Storage Manager driver - ia32"
+  },
+  {
+   "path": "srs/Intel/3/Drv.pesrs",
+   "size": 13140,
+   "sha256": "",
+   "vendor": "Intel",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/Intel/3/Drv.reg",
+   "size": 13788,
+   "sha256": "",
+   "vendor": "Intel",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/Intel/3/drivers/iaStor.sys",
+   "size": 470808,
+   "sha256": "52a2676fed3a73182d7ba3ac4ea954bc2dc8879ce71db973e37720b2f0a7392a",
+   "vendor": "Intel",
+   "company": "Intel Corporation",
+   "product": "Intel Rapid Storage Technology driver ",
+   "version": "11.1.0.1006",
+   "desc": "Intel Rapid Storage Technology driver - x86"
+  },
+  {
+   "path": "srs/JMicron/Drv.pesrs",
+   "size": 148648,
+   "sha256": "",
+   "vendor": "JMicron",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/JMicron/Drv.reg",
+   "size": 156262,
+   "sha256": "",
+   "vendor": "JMicron",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/JMicron/drivers/jraid.sys",
+   "size": 103512,
+   "sha256": "1b3d08f29d7511a639a4ca3030991646d8635836aa8a2546e0dec31f8cfd8361",
+   "vendor": "JMicron",
+   "company": "JMicron Technology Corp.",
+   "product": "JMicron JMB36X RAID Driver",
+   "version": "1.17.63.1",
+   "desc": "JMicron JMB36X RAID Driver"
+  },
+  {
+   "path": "srs/MS/Drv.pesrs",
+   "size": 266790,
+   "sha256": "",
+   "vendor": "MS",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/MS/Drv.reg",
+   "size": 281154,
+   "sha256": "",
+   "vendor": "MS",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/MS/drivers/AMDAGP.SYS",
+   "size": 43008,
+   "sha256": "36cd3b14ef78b01fb653b78187faa63c4dd5f4137ac3b91d81256a350eedcbc1",
+   "vendor": "MS",
+   "company": "Advanced Micro Devices, Inc.",
+   "product": "Windows (R) 2000 DDK Driver",
+   "version": "5.00",
+   "desc": "AMD Win2000 AGP Filter"
+  },
+  {
+   "path": "srs/MS/drivers/SISAGP.SYS",
+   "size": 40960,
+   "sha256": "cda3d082d370b079c06d943da124d76baf0c5db264fb0c893148ef6322d2fabe",
+   "vendor": "MS",
+   "company": "Silicon Integrated Systems Corporation",
+   "product": "SiS (R) NT AGP Filter",
+   "version": "5.12.01.2010",
+   "desc": "SiS NT AGP Filter"
+  },
+  {
+   "path": "srs/MS/drivers/aliide.sys",
+   "size": 5248,
+   "sha256": "369379ecc5941ace984a7f31eaabb66a2e693edbada639b86d26fd681d45608e",
+   "vendor": "MS",
+   "company": "Acer Laboratories Inc.",
+   "product": "ALi mini IDE Driver",
+   "version": "1.20",
+   "desc": "ALi mini IDE Driver"
+  },
+  {
+   "path": "srs/MS/drivers/asc.sys",
+   "size": 26496,
+   "sha256": "1a69806ab2bdecceb5eb23a80700b3f98983d5d67f78839cbf269087fa460757",
+   "vendor": "MS",
+   "company": "Advanced System Products, Inc.",
+   "product": "AdvanSys SCSI driver",
+   "version": "2.9I-MS",
+   "desc": "AdvanSys SCSI Controller Driver"
+  },
+  {
+   "path": "srs/MS/drivers/asc3550.sys",
+   "size": 14848,
+   "sha256": "557c93e82a71131d226267151c84b197503831a16263ddfe040e996b605ca9e8",
+   "vendor": "MS",
+   "company": "Advanced System Products, Inc.",
+   "product": "AdvanSys PCI Ultra Wide SCSI Driver",
+   "version": "3.1E-MS",
+   "desc": "AdvanSys Ultra-Wide PCI SCSI Driver"
+  },
+  {
+   "path": "srs/MS/drivers/cmdide.sys",
+   "size": 6656,
+   "sha256": "37ef11eedbbe65d84da5354eb9c295dc40155ea8203c5925c07fe5509ccee72f",
+   "vendor": "MS",
+   "company": "CMD Technology, Inc.",
+   "product": "Microsoft(R) Windows(R) Operating System",
+   "version": "5.1.2600.0",
+   "desc": "CMD PCI IDE Bus Driver"
+  },
+  {
+   "path": "srs/MS/drivers/dac2w2k.sys",
+   "size": 179584,
+   "sha256": "52f6bd1027e91f9a90afab82c7f2a0314b7e55262f5293d5f9f8f12135edd88c",
+   "vendor": "MS",
+   "company": "Mylex Corporation",
+   "product": "Mylex Disk Array Controller Driver",
+   "version": "6.00-21",
+   "desc": "Mylex Disk Array Controller Driver"
+  },
+  {
+   "path": "srs/MS/drivers/mraid35x.sys",
+   "size": 17280,
+   "sha256": "9a4f9e63aa55b779af3563c66c8e40d9c42ff3bb5f533f70905adc7a44ea7dad",
+   "vendor": "MS",
+   "company": "American Megatrends Inc.",
+   "product": "MegaRAID Miniport Driver for Windows Whistler 32",
+   "version": "6.19",
+   "desc": "MegaRAID RAID Controller Driver for Windows Whistler 32"
+  },
+  {
+   "path": "srs/MS/drivers/ql1080.sys",
+   "size": 40320,
+   "sha256": "a1fb923eb2d08d89d24e8ad7042bbed7cb1dbda9a5b77bdd188e9913badab0ef",
+   "vendor": "MS",
+   "company": "QLogic Corporation",
+   "product": "Miniport Driver for QLogic ISP PCI Adapters",
+   "version": "3.04",
+   "desc": "Miniport Driver for QLogic ISP PCI Adapters"
+  },
+  {
+   "path": "srs/MS/drivers/ql12160.sys",
+   "size": 45312,
+   "sha256": "7490b90d4c88b7a9badb9473d4033535f054c797abf6d542cb859da5c9b2586a",
+   "vendor": "MS",
+   "company": "QLogic Corporation",
+   "product": "Miniport Driver for QLogic ISP PCI Adapters",
+   "version": "7.13.02 (W64)",
+   "desc": "Miniport Driver for QLogic ISP PCI Adapters"
+  },
+  {
+   "path": "srs/MS/drivers/ql1280.sys",
+   "size": 49024,
+   "sha256": "f9e7023bd1042963110d0a613054d094437868b20779f23c316a38e4781a6152",
+   "vendor": "MS",
+   "company": "QLogic Corporation",
+   "product": "Miniport Driver for QLogic ISP PCI Adapters",
+   "version": "7.13.01 (W2K)",
+   "desc": "Miniport Driver for QLogic ISP PCI Adapters"
+  },
+  {
+   "path": "srs/MS/drivers/sparrow.sys",
+   "size": 19072,
+   "sha256": "10b24723914a5a9e27a592fd58dae2207b6e49f13a17cd2b1477c51d2d609d2e",
+   "vendor": "MS",
+   "company": "Adaptec, Inc.",
+   "product": "Microsoft(R) Windows (R) 2000 Operating System",
+   "version": "5.1.2409.1",
+   "desc": "Adaptec AIC-6x60 series SCSI miniport"
+  },
+  {
+   "path": "srs/MS/drivers/sym_hi.sys",
+   "size": 28384,
+   "sha256": "ccf82d09c63f4fa98bcbef3a1dc8c02d4269b78256d0b6213e815d9bbe174432",
+   "vendor": "MS",
+   "company": "LSI Logic",
+   "product": "Microsoft® Windows® Operating System",
+   "version": "5.1.2462.0",
+   "desc": "Symbios Hi-Perf SCSI Miniport Driver"
+  },
+  {
+   "path": "srs/MS/drivers/sym_u3.sys",
+   "size": 30688,
+   "sha256": "fe7c114a19d50e37463cdd3605c26105a779eea79cb92bf98267c7be809d853b",
+   "vendor": "MS",
+   "company": "LSI Logic",
+   "product": "Microsoft® Windows® Operating System",
+   "version": "5.1.2462.0",
+   "desc": "Symbios Ultra3 SCSI Miniport Driver"
+  },
+  {
+   "path": "srs/MS/drivers/symc810.sys",
+   "size": 16256,
+   "sha256": "78a3075bbff5d7adeac1527e65aca8527bfc509df124d44410bb46c4d96c96bb",
+   "vendor": "MS",
+   "company": "Symbios Logic Inc.",
+   "product": "Microsoft(R) Windows (R) 2000 Operating System",
+   "version": "5.1.2409.1",
+   "desc": "Symbios Logic Inc. SCSI Miniport Driver"
+  },
+  {
+   "path": "srs/MS/drivers/symc8xx.sys",
+   "size": 32640,
+   "sha256": "b98b29fb01741af3b4bb02c76a4d117ea04fe4cc4f8cdb491f9216931704a6d8",
+   "vendor": "MS",
+   "company": "LSI Logic",
+   "product": "Microsoft(R) Windows (R) 2000 Operating System",
+   "version": "5.1.2409.1",
+   "desc": "Symbios 8XX SCSI Miniport Driver"
+  },
+  {
+   "path": "srs/MS/drivers/ultra.sys",
+   "size": 36736,
+   "sha256": "fc3f12d25ee0e99afe056502fccfc052854699c21b99d559faf1244f206dfb4f",
+   "vendor": "MS",
+   "company": "Promise Technology, Inc.",
+   "product": "Promise ULTRA66 Miniport-Treiber für Windows NT",
+   "version": " 1.43 (Version 0603)",
+   "desc": "Promise ULTRA66 Miniport-Treiber"
+  },
+  {
+   "path": "srs/MS/drivers/vmscsi.sys",
+   "size": 17712,
+   "sha256": "e207202e7a887d3f6a3282449ccd1487b5bc32a41d805c5138295a3f3fe995b5",
+   "vendor": "MS",
+   "company": "VMware, Inc.",
+   "product": "VMware SCSI Controller Driver",
+   "version": "1.2.0.6 build-91182",
+   "desc": "VMware SCSI Controller Driver"
+  },
+  {
+   "path": "srs/Marvell/Drv.pesrs",
+   "size": 23000,
+   "sha256": "",
+   "vendor": "Marvell",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/Marvell/Drv.reg",
+   "size": 24188,
+   "sha256": "",
+   "vendor": "Marvell",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/Marvell/drivers/mv614x.sys",
+   "size": 63616,
+   "sha256": "f509229626946830748eac0fcc2c52ff9d58643dad2123206248284ede0c708e",
+   "vendor": "Marvell",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/Marvell/drivers/mv61xx.sys",
+   "size": 159536,
+   "sha256": "73121443a6c7f79ae48e4fd1e9d25dc3397d803f1a8106a79fd5b890021030ca",
+   "vendor": "Marvell",
+   "company": "Marvell Semiconductor, Inc.",
+   "product": "Marvell Thor",
+   "version": " 1.2.0.8000 ",
+   "desc": "Marvell Thor Windows Driver"
+  },
+  {
+   "path": "srs/Marvell/drivers/mv61xxmm.sys",
+   "size": 13616,
+   "sha256": "b81c732352a79a23bacb6d91f11c0b0149c49e53cdc55aeb1340f44a3dd45814",
+   "vendor": "Marvell",
+   "company": "Marvell Semiconductor Inc.",
+   "product": "Marvell Flash Technologies",
+   "version": "1.0.0.1200",
+   "desc": "Marvell Aux NV Bridge DLL"
+  },
+  {
+   "path": "srs/Marvell/drivers/mv64xx.sys",
+   "size": 285736,
+   "sha256": "92bb440c45480cc732d871599888fc2c3e292108e31e68101ba8e030f498dabd",
+   "vendor": "Marvell",
+   "company": "Marvell Semiconductor, Inc.",
+   "product": "Marvell Odin",
+   "version": " 3.1.0.2406 ",
+   "desc": "Marvell Odin Windows Driver"
+  },
+  {
+   "path": "srs/Marvell/drivers/mv64xxmm.sys",
+   "size": 5632,
+   "sha256": "a00505102e0a6a6b367a6b8b191294303cc2066c9d3cd6fd5235d232bfeb5826",
+   "vendor": "Marvell",
+   "company": "Marvell Semiconductor Inc.",
+   "product": "Marvell Flash Technologies",
+   "version": "1.0.0.1200",
+   "desc": "Marvell Aux NV Bridge DLL"
+  },
+  {
+   "path": "srs/Marvell/drivers/mv91xx.sys",
+   "size": 275760,
+   "sha256": "90378eb66993a272c591ded10e169b1741a3f8dae33d7ace01207815b4a4d8de",
+   "vendor": "Marvell",
+   "company": "Marvell Semiconductor, Inc.",
+   "product": "Marvell magni",
+   "version": " 1.2.0.1014 ",
+   "desc": "Marvell magni Windows Driver"
+  },
+  {
+   "path": "srs/Marvell/drivers/mvsata.sys",
+   "size": 43520,
+   "sha256": "b1bed29925fd38f07211b79bb4d5bdb65245c6f52e4ff2194316cf46f0493a35",
+   "vendor": "Marvell",
+   "company": "Marvell Semiconductors Inc.",
+   "product": "88SX50xx/88SX60x1 WINDOWS 2000/XP/2003 driver",
+   "version": "3, 4, 1, 2",
+   "desc": "MV88SX50XX/MV88SX60X1 WINDOWS 2000/XP/2003 driver"
+  },
+  {
+   "path": "srs/Marvell/drivers/mvxxmm.sys",
+   "size": 13616,
+   "sha256": "085ac499379ec25390a0fe9da1c435772281e6a16b2e140f5f9c0551351fd027",
+   "vendor": "Marvell",
+   "company": "Marvell Semiconductor Inc.",
+   "product": "Marvell Flash Technologies",
+   "version": "1.0.0.1202",
+   "desc": "Marvell Aux NV Bridge DLL"
+  },
+  {
+   "path": "srs/SIS/Drv.pesrs",
+   "size": 9870,
+   "sha256": "",
+   "vendor": "SIS",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/SIS/Drv.reg",
+   "size": 10356,
+   "sha256": "",
+   "vendor": "SIS",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/SIS/drivers/SiSRaid2.sys",
+   "size": 47616,
+   "sha256": "9adc7ac5dd8b6b6e2dd9cf4805bed5098a5727471ffab7cd3331110e0244c807",
+   "vendor": "SIS",
+   "company": "Silicon Integrated Systems Corp.",
+   "product": "SiS 0182/1182 RAID Controller",
+   "version": "2.11.01",
+   "desc": "SiS RAID Miniport Driver"
+  },
+  {
+   "path": "srs/SIS/drivers/sisraid4.sys",
+   "size": 68864,
+   "sha256": "e5c3219749569fb6ee26a6546b4c20b64e49a415fbabbedc009a0f886347740c",
+   "vendor": "SIS",
+   "company": "Silicon Integrated Systems",
+   "product": "SiS AHCI Controller",
+   "version": "3.02.04",
+   "desc": "SiS AHCI Miniport Driver"
+  },
+  {
+   "path": "srs/VIA/Drv.pesrs",
+   "size": 22122,
+   "sha256": "",
+   "vendor": "VIA",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/VIA/Drv.reg",
+   "size": 23220,
+   "sha256": "",
+   "vendor": "VIA",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/VIA/drivers/ViBus.sys",
+   "size": 16896,
+   "sha256": "91379d98051d1834de2cac2a75bc26dfd51d0f891eab8d3081db7b5c544bd55e",
+   "vendor": "VIA",
+   "company": "VIA Technologies, Inc.",
+   "product": "VIA SATA IDE Driver",
+   "version": "6.0.6000.231",
+   "desc": "VIA SATA IDE Driver"
+  },
+  {
+   "path": "srs/VIA/drivers/ViPrt.sys",
+   "size": 53248,
+   "sha256": "fb0f0b9fbfbd3e8bc883b2f6f02f5ffe361ec320498d2501bce26886d93d2864",
+   "vendor": "VIA",
+   "company": "VIA Technologies, Inc.",
+   "product": "VIA SATA IDE Driver",
+   "version": "6.0.6000.231",
+   "desc": "VIA SATA IDE Driver"
+  },
+  {
+   "path": "srs/VIA/drivers/viamraid.sys",
+   "size": 117248,
+   "sha256": "05323d50b74fc5cef95668aeecb685180ff1a28241144772f930990989986ad6",
+   "vendor": "VIA",
+   "company": "VIA Technologies inc,.ltd",
+   "product": "VIA RAID driver",
+   "version": "5.1.6000.574",
+   "desc": "VIA AHCI RAID DRIVER FOR WIN XP/SRV2003"
+  },
+  {
+   "path": "srs/VIA/drivers/viapdsk.sys",
+   "size": 29184,
+   "sha256": "c7da9a854e929e49899569629724ca04935dfcec8dad8df8383f3ae4837ced36",
+   "vendor": "VIA",
+   "company": "VIA Technologies, Inc.",
+   "product": "VIA Bus Master IDE Driver",
+   "version": "5, 1, 2600, 104",
+   "desc": "VIA VT4149 PATA Driver"
+  },
+  {
+   "path": "srs/VIA/drivers/videX32.sys",
+   "size": 9216,
+   "sha256": "191f864108c98ecb0938618cb28dda60ed5a1ea7049589bbebce0b95f9079ab7",
+   "vendor": "VIA",
+   "company": "VIA Technologies, Inc.",
+   "product": "VIA PCI IDE MINI Driver",
+   "version": "6.0.6000.182",
+   "desc": "VIA Generic PCI IDE Bus Driver"
+  },
+  {
+   "path": "srs/nVIDIA/1/Drv.pesrs",
+   "size": 7144,
+   "sha256": "",
+   "vendor": "nVIDIA",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/nVIDIA/1/Drv.reg",
+   "size": 7486,
+   "sha256": "",
+   "vendor": "nVIDIA",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/nVIDIA/1/drivers/nvatabus.sys",
+   "size": 79360,
+   "sha256": "28368a5f6d9bcb3799477661ab36641ffcef48134e01f64d7d58d795a52ec76a",
+   "vendor": "nVIDIA",
+   "company": "NVIDIA Corporation",
+   "product": "NVIDIA nForce(TM) IDE Driver",
+   "version": "5.10.2600.0446",
+   "desc": "NVIDIA® nForce(TM) IDE Performance Driver"
+  },
+  {
+   "path": "srs/nVIDIA/1/drivers/nvraid.sys",
+   "size": 68224,
+   "sha256": "1a648137d956875b86e2a9f3d4818d6289f44ad8fab5bde3b815ce4695c31098",
+   "vendor": "nVIDIA",
+   "company": "NVIDIA Corporation",
+   "product": "NVIDIA nForce(TM) RAID Driver",
+   "version": "5.10.2600.0446",
+   "desc": "NVIDIA® nForce(TM) RAID Driver"
+  },
+  {
+   "path": "srs/nVIDIA/2/Drv.pesrs",
+   "size": 13002,
+   "sha256": "",
+   "vendor": "nVIDIA",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/nVIDIA/2/Drv.reg",
+   "size": 13686,
+   "sha256": "",
+   "vendor": "nVIDIA",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "srs/nVIDIA/2/drivers/nvgts.sys",
+   "size": 145952,
+   "sha256": "b5d0c23eeb0067de64fb49a9db86fdce77547de6c73a2657fa43122cb16026bb",
+   "vendor": "nVIDIA",
+   "company": "NVIDIA Corporation",
+   "product": "NVIDIA nForce(TM) SATA Driver",
+   "version": "10.3.0.42",
+   "desc": "NVIDIA® nForce(TM) Sata Performance Driver"
+  },
+  {
+   "path": "srs/nVIDIA/2/drivers/nvrd32.sys",
+   "size": 133152,
+   "sha256": "8215d5102123221cba2078ca60eb6fe4335ac17a6633542e53ff51f2a89c6cb4",
+   "vendor": "nVIDIA",
+   "company": "NVIDIA Corporation",
+   "product": "NVIDIA nForce(TM) RAID Driver",
+   "version": "10.3.0.42",
+   "desc": "NVIDIA® nForce(TM) RAID Driver"
+  },
+  {
+   "path": "vmd/intel/rstvmd/20220825/RstMwEventLogMsg.dll",
+   "size": 29352,
+   "sha256": "a85c37c9ecce1641a3ec929d249663cdbcaea5174349321113f2f7c5f2f86cb4",
+   "vendor": "intel",
+   "company": "Intel Corporation",
+   "product": "Intel(R) Rapid Storage Technology Management",
+   "version": "19.5.1.1040",
+   "desc": "Intel(R) Rapid Storage Technology Management Event Log message resource file"
+  },
+  {
+   "path": "vmd/intel/rstvmd/20220825/RstMwService.exe",
+   "size": 2055856,
+   "sha256": "7931fcf10faca1d8214812f3c8a00b54e01527072ae204acc05298eeab220631",
+   "vendor": "intel",
+   "company": "Intel Corporation",
+   "product": "Intel(R) Rapid Storage Technology Management Service",
+   "version": "19.5.1.1040",
+   "desc": "Intel(R) Rapid Storage Technology Management Service"
+  },
+  {
+   "path": "vmd/intel/rstvmd/20220825/iaStorVD.cat",
+   "size": 12356,
+   "sha256": "7c6b563ccd868a5f57f6cfcfc081fdd8e895a7c9c91f67c71299367e57b0dea0",
+   "vendor": "intel",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "vmd/intel/rstvmd/20220825/iaStorVD.inf",
+   "size": 28202,
+   "sha256": "1fd415b0b80bea5960c9f356dc2ed869cfb6e1b668cab3d964c612b14117811f",
+   "vendor": "intel",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "vmd/intel/rstvmd/20220825/iaStorVD.sys",
+   "size": 1605296,
+   "sha256": "5c2af187d0e32380b9ae552dd94ac8b788d346889a21d2ee0c9d1db64690f4ce",
+   "vendor": "intel",
+   "company": "Intel Corporation",
+   "product": "Intel(R) Rapid Storage Technology driver ",
+   "version": "19.5.1.1040",
+   "desc": "Intel(R) Rapid Storage Technology driver - x64"
+  },
+  {
+   "path": "vmd/intel/rstvmd/20240722/RstMwEventLogMsg.dll",
+   "size": 30920,
+   "sha256": "4a1bcbc27fa04d0fb5c42d2cd21c9a4a340f9562c2fe4a2d55b613b857d13478",
+   "vendor": "intel",
+   "company": "Intel Corporation",
+   "product": "Intel(R) Rapid Storage Technology Management",
+   "version": "20.1.0.1015",
+   "desc": "Intel(R) Rapid Storage Technology Management Event Log message resource file"
+  },
+  {
+   "path": "vmd/intel/rstvmd/20240722/RstMwService.exe",
+   "size": 2093264,
+   "sha256": "85ec97b57ad681a7b64c5ced766033c7e1181a3b40e28f1b88cdf3ce57683750",
+   "vendor": "intel",
+   "company": "Intel Corporation",
+   "product": "Intel(R) Rapid Storage Technology Management Service",
+   "version": "20.1.0.1015",
+   "desc": "Intel(R) Rapid Storage Technology Management Service"
+  },
+  {
+   "path": "vmd/intel/rstvmd/20240722/iaStorVD.cat",
+   "size": 12507,
+   "sha256": "07ca432a9bfcd4d9007b6aed637bec0f0c63b968b9a132de0bf41c19f71fb270",
+   "vendor": "intel",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "vmd/intel/rstvmd/20240722/iaStorVD.inf",
+   "size": 28478,
+   "sha256": "86507f8ca3bcb2256972e23f6275b5e85e1becdbb70d34647ab785deb9b700d0",
+   "vendor": "intel",
+   "company": "",
+   "product": "",
+   "version": "",
+   "desc": ""
+  },
+  {
+   "path": "vmd/intel/rstvmd/20240722/iaStorVD.sys",
+   "size": 1619656,
+   "sha256": "264488f8baa2cc0b57d6c162d244fb748095fa2c99d7786be1f5e144573f9e18",
+   "vendor": "intel",
+   "company": "Intel Corporation",
+   "product": "Intel(R) Rapid Storage Technology driver ",
+   "version": "20.1.0.1015",
+   "desc": "Intel(R) Rapid Storage Technology driver - x64"
+  }
+ ]
+}
