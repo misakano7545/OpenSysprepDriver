@@ -1,6 +1,9 @@
-# OpenSysprepTool 驱动集
+# OpenSysprepDriver
 
 `OpenSysprepTool` 的系统部署测试用驱动集合。
+
+- 远端：https://github.com/misakano7545/OpenSysprepDriver
+- 主项目：https://github.com/misakano7545/OpenSysprepTool
 
 ## 这是什么
 
